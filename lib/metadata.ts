@@ -24,8 +24,8 @@ export function constructMetadata({
       "JavaScript",
     ],
 
-    authors: { name: "Ricardo Esteves", url: "" },
-    creator: "Ricardo Esteves",
+    authors: { name: "Duarte Dias", url: "" },
+    creator: "Duarte Dias",
 
     ...(noIndex && {
       robots: {
